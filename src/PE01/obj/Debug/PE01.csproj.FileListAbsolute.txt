@@ -1,0 +1,31 @@
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\bin\Debug\PE01.exe.config
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\bin\Debug\PE01.exe
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\bin\Debug\PE01.pdb
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\obj\Debug\PE01.csprojAssemblyReference.cache
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\obj\Debug\PE01.FormPE01.resources
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\obj\Debug\PE01.Properties.Resources.resources
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\obj\Debug\PE01.csproj.GenerateResource.cache
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\obj\Debug\PE01.csproj.CoreCompileInputs.cache
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\obj\Debug\PE01.exe
+D:\1FPT\Exam\PRN292\PE-FE taptrung\PE\PE01\Given\PE01\PE01\obj\Debug\PE01.pdb
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\obj\Debug\PE01.csproj.SuggestedBindingRedirects.cache
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\obj\Debug\PE01.FormPE01.resources
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\obj\Debug\PE01.Properties.Resources.resources
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\obj\Debug\PE01.csproj.GenerateResource.cache
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\obj\Debug\PE01.csproj.CoreCompileInputs.cache
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\bin\Debug\PE01.exe.config
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\bin\Debug\PE01.exe
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\bin\Debug\PE01.pdb
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\obj\Debug\PE01.exe
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\obj\Debug\PE01.pdb
+E:\FUTesting\ExamBank\Practical Exam\PRN292\PE_SP22\PE01\Given\PE01\PE01\obj\Debug\PE01.csproj.AssemblyReference.cache
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\bin\Debug\PE01.exe.config
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\bin\Debug\PE01.exe
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\bin\Debug\PE01.pdb
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\obj\Debug\PE01.csprojAssemblyReference.cache
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\obj\Debug\PE01.FormPE01.resources
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\obj\Debug\PE01.Properties.Resources.resources
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\obj\Debug\PE01.csproj.GenerateResource.cache
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\obj\Debug\PE01.csproj.CoreCompileInputs.cache
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\obj\Debug\PE01.exe
+C:\Users\atbgl\OneDrive\Desktop\PE_PRN292_01_SP22_050203\PaperNo_1\1\Src\PE01\PE01\obj\Debug\PE01.pdb
